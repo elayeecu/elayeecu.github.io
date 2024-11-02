@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://elayeecu.github.io/Zlk/sitemap_index.txt
+Sitemap: https://elayeecu.github.io/hVM/sitemap_index.txt
+Sitemap: https://elayeecu.github.io/her/sitemap_index.txt
+Sitemap: https://elayeecu.github.io/uCL/sitemap_index.txt
